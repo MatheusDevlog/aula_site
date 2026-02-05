@@ -11,7 +11,21 @@ body {
     margin: 20px auto;
 }
 
+p#ano_nas {
+    text-align: center;
+}
 
+p#sexo {
+    text-align: center;
+}
+
+#botao_container p:last-child {
+  text-align: center;
+}
+
+div#res {
+    text-align: center;
+}
 
 header {
     color: rgb(246, 250, 239);
